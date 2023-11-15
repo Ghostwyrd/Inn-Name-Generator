@@ -1,5 +1,0 @@
-c:/users/Ghost/GitGhost/Play
-
-
-git commit -a (track files?)
-	-m (message)
